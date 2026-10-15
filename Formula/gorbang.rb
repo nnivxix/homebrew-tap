@@ -1,8 +1,8 @@
 class Gorbang < Formula
   desc "Terminal UI to find and kill processes listening on TCP ports"
   homepage "https://github.com/nnivxix/gorbang"
-  url "https://github.com/nnivxix/gorbang/archive/refs/tags/v0.5.0.tar.gz"
-  sha256 "f27e06feed10ed4d87133381ff955bd0505f798fc9aca4ee7f3936ad92550da8"
+  url "https://github.com/nnivxix/gorbang/archive/refs/tags/v0.5.1.tar.gz"
+  sha256 "82c96f2b4e33716b6a0825d31d23ab477100f0ac8bfff31f2a3c9151d2f3f171"
   license "MIT"
   head "https://github.com/nnivxix/gorbang.git", branch: "main"
 
